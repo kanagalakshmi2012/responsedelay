@@ -20,8 +20,8 @@ DNS is essential for translating domain names into IP addresses but faces securi
 
 **Relevance & Real-World Impact**
 
-* **Kubernetes infrastructure optimization:**\
-    Enhances distributed key-value store performance by improving the write availability in distributed systems.
+* **Secure and Efficient Resolution:**\
+    DNSSEC was used to strengthen authentication and integrity in DNS responses.Access control mechanisms supported performance optimization by reducing verification overhead and enhancing resolution speed in distributed systems.
 * **Write availability Improvement:** \
     need to add here
 * **Academic Recognition :** \
