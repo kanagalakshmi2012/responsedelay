@@ -1,7 +1,7 @@
 # responsedelay
 **OPTIMIZING DNS RESPONSE DELAY IN DISTRIBUTED CLUSTER ARCHITECTURES**  
 * Author: Kanagalakshmi Murugan
-* Published In : International Journal on Science and Technology (IJSAT)
+* Published In : ConfTWO
 * Publication Date: 06-2022
 * E-ISSN: 2229-7677
 * Impact Factor: 9.88
