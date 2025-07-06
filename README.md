@@ -22,12 +22,12 @@ DNS is essential for translating domain names into IP addresses but faces securi
 
 * **Secure and Efficient Resolution:**\
     DNSSEC was used to strengthen authentication and integrity in DNS responses.Access control mechanisms supported performance optimization by reducing verification overhead and enhancing resolution speed in distributed systems.
-* **Write availability Improvement:** \
-    need to add here
+* **Reduced Resource Consumption:** \
+    The integration of access control with DNSSEC led to lower CPU and memory usage during query validation. This optimization helped maintain system stability under high query loads in distributed environments.
 * **Academic Recognition :** \
-    need to add here
+    Recognized in academic analyses and technical evaluations focused on DNS query handling and improvements in distributed system resolution strategies.
 * **Educational Impact:** \
-    need to add here \
+    Outcomes incorporated into educational programs and investigative projects, supporting continued academic engagement in container orchestration and the effectiveness of cloud-based systems. \
 
 **Experimental Results (Summary)**:
 
