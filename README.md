@@ -27,7 +27,7 @@ DNS is essential for translating domain names into IP addresses but faces securi
 * **Academic Recognition :** \
     Recognized in academic analyses and technical evaluations focused on DNS query handling and improvements in distributed system resolution strategies.
 * **Educational Impact:** \
-    Outcomes incorporated into educational programs and investigative projects, supporting continued academic engagement in container orchestration and the effectiveness of cloud-based systems. \
+    Outcomes incorporated into educational programs and investigative projects, supporting continued academic engagement in container orchestration and the effectiveness of cloud-based systems. 
 
 **Experimental Results (Summary)**:
 
