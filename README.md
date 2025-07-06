@@ -8,13 +8,13 @@
 * Link:
 
 **Abstract:**
-This paper investigates the replication time challenges in Viewstamped Replication (VR), a consensus protocol widely used in distributed systems for ensuring consistency and fault tolerance. As the number of nodes increases, VR suffers from high replication delays due to its quorum-based communication model. These delays negatively impact system throughput and responsiveness, especially in performance-critical or real-time environments. To address this, the paper proposes an alternative approach using the ZAB (ZooKeeper Atomic Broadcast) protocol to reduce replication time. The solution aims to maintain VR’s reliability while improving scalability and operational efficiency in large distributed systems.
+DNS is essential for translating domain names into IP addresses but faces security challenges like cache poisoning and spoofing. DNS Security Extensions (DNSSEC) improve security by adding digital signatures, but this increases query processing time, memory use, and network overhead. These performance impacts are significant in distributed systems that require low-latency name resolution. Balancing DNSSEC’s security benefits with efficient performance is crucial for high-availability environments. This paper explores addressing DNSSEC-related performance issues using an access control mechanism.
 
 **Key Contributions:**
 * Algorithm Development
-  Designed and optimized Chrony sync time algorithm to achieve high write availability in distributed systems.
+  Designed and optimized access control delay significantly improves DNS resolution performance by drastically reducing delay impacts compared to DNSSEC, especially in distributed cluster environments.
 * Performance Comparison
-  Conducted bench marking between NTP Sync time and Chrony sync time.
+  Conducted bench marking between DNS Security Extensions (DNSSEC) and Access Control Delay Impact.
 * Reserach Leadership
   Led the research and technical implementation , focusing on advancing distributed database through algorithm innovation.
 
