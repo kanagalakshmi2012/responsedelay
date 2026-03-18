@@ -5,7 +5,7 @@
 * Publication Date: 06-2022
 * E-ISSN: 2229-7677
 * Impact Factor: 9.88
-* Link:
+
 
 **Abstract:**
 DNS is essential for translating domain names into IP addresses but faces security challenges like cache poisoning and spoofing. DNS Security Extensions (DNSSEC) improve security by adding digital signatures, but this increases query processing time, memory use, and network overhead. These performance impacts are significant in distributed systems that require low-latency name resolution. Balancing DNSSEC’s security benefits with efficient performance is crucial for high-availability environments. This paper explores addressing DNSSEC-related performance issues using an access control mechanism.
