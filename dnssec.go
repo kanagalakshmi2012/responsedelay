@@ -3,6 +3,7 @@ import (
 	"fmt"
 	"github.com/miekg/dns"
 	"os"
+
 )
 func queryDNS(name string, qtype uint16, server string) *dns.Msg {
 	client := new(dns.Client)
