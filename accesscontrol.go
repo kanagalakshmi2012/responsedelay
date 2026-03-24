@@ -4,6 +4,7 @@ import (
 	"github.com/miekg/dns"
 	"os"
 	"time"
+
 )
 
 func queryWithAccessControl(name string, qtype uint16, server string, nodes int) *dns.Msg {
